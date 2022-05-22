@@ -1,8 +1,6 @@
-// Copyright by Enigma
+// Copyright by Margarita
 
-#include <stdexcept>
-
-
+#include <stdex>
 #include <gtest/gtest.h>
 
 TEST(Example, EmptyTest) {
